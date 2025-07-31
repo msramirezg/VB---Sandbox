@@ -1,5 +1,5 @@
 Module Program
-Sub Main(args As string())
-Console.WriteLine("Hola Mundo")
+Sub Main()
+Console.WriteLine("Hola Mundo") 
 End Sub
 End Module
